@@ -6,10 +6,11 @@
 
 "We-Wingit Drones is a web-based conversational AI chatbot 🤖 that leverages OpenAI's GPT-3.5 Turbo model. It allows users to engage in interactive conversations by inputting messages, and the chatbot responds with contextually relevant replies. The chatbot's responses are generated in real-time, creating a dynamic and engaging user experience. This chatbot has been fine-tuned using custom data, enabling it to provide personalized and domain-specific interactions, making it a versatile tool for various applications."
 
-## Prerequisites
+## Prerequisites for fine tunning with OpenAi
 
 - Node.js and npm installed on your machine
 - OpenAI API key
+- Refer to terminal-commands.md for fine tunning
 
 ## Getting Started
 

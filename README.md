@@ -11,6 +11,7 @@
 - Node.js and npm installed on your machine
 - OpenAI API key
 - Refer to ```terminal-commands.md``` for fine tunning
+- Fine tunning dataset example ```we-wingit-data_prepared.jsonl```
 
 ## Getting Started
 

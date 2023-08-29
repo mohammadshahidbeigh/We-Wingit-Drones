@@ -17,7 +17,7 @@
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the following command:
-3. Create a `.env` file in the root directory and add your OpenAI API key:
+3. Create a `.env` file in the root directory and add your OpenAI API key: ` `
 4. Replace `davinci:ft-2023` with the desired OpenAI model ID in the code.
 
 ## Usage

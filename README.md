@@ -42,7 +42,7 @@ $ npm install
 $ npm start
 ```
 
-co-author - ShahidaJehangir
+co-author - ShahidaJehangirwani
 Head over to https://vitejs.dev/ to learn more about using vite.
 
 Happy Coding!
